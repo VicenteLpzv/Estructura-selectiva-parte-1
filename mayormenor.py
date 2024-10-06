@@ -1,4 +1,4 @@
-
+#Vicente Yahir Lopez Vazquez - 240010
 
 print ("Programa que solicita la edad del usuario y este imprima si es o no es mayor de edad")
 
